@@ -78,8 +78,3 @@ This site itself — a server-rendered ASP.NET Core application backed by EF Cor
 
 ---
 
-## GitHub Stats
-
-![Oskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=okthomsen&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okthomsen&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=okthomsen&hide_border=true)
