@@ -72,7 +72,7 @@ Master's thesis project: analyzed Sentinel-2 satellite imagery to flag likely ov
 `GIS` `Sentinel-2 API` `MySQL` `RabbitMQ` `Docker`
 
 ### [Portfolio Website](https://github.com/OKThomsen/Portfolio-Website)
-This site itself — a server-rendered ASP.NET Core application backed by EF Core and SQL Server, built specifically as a hands-on showcase of the Microsoft development stack.
+A server-rendered ASP.NET Core application backed by EF Core and SQL Server, built specifically as a hands-on showcase of the Microsoft development stack.
 
 `ASP.NET Core` `Entity Framework Core` `SQL Server` `Docker`
 
