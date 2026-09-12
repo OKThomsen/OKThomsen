@@ -56,25 +56,25 @@ Recent graduate building across the stack — from embedded Linux systems to clo
 
 ## Featured Projects
 
-### [Wildlife Camera Monitoring System](https://github.com/okthomsen/Wildlife-Camera)
-A simulated wildlife camera network built on ESP32 and Raspberry Pi, with wireless drone-based image offloading and local LLM image annotation. Designed and built solo, including the offload workflow and image annotation step.
-
-`Embedded Linux` `Python` `Bash/Shell` `Wi-Fi Networking` `Local LLM`
-
-### [Flexible Software Architectures — TV 2 Play Case](https://github.com/okthomsen/Video-platform-TV2)
-A microservice-based mockup of TV 2's streaming platform, built to explore independent scalability and availability under a publish/subscribe architecture. Bachelor project for a case supplied by Danish broadcaster TV 2.
-
-`Microservices` `Apache Kafka` `Docker`
-
 ### [Satellite-Based Detection of Pesticide Overuse](https://github.com/anton4d/Satellite-Based_Detection_of_Pesticide_Overuse)
 Master's thesis project: analyzed Sentinel-2 satellite imagery to flag likely overuse of pre-harvest desiccant on Danish potato fields, for a case brought by the Danish Environmental Protection Agency.
 
 `GIS` `Sentinel-2 API` `MySQL` `RabbitMQ` `Docker`
 
+### [Wildlife Camera Monitoring System](https://github.com/okthomsen/Wildlife-Camera)
+A simulated wildlife camera network built on ESP32 and Raspberry Pi, with wireless drone-based image offloading and local LLM image annotation. Designed and built solo, including the offload workflow and image annotation step.
+
+`Embedded Linux` `Python` `Bash/Shell` `Wi-Fi Networking` `Local LLM`
+
 ### [Portfolio Website](https://github.com/OKThomsen/Portfolio-Website)
 A server-rendered ASP.NET Core application backed by EF Core and SQL Server, built specifically as a hands-on showcase of the Microsoft development stack.
 
 `ASP.NET Core` `Entity Framework Core` `SQL Server` `Docker`
+
+### [Flexible Software Architectures — TV 2 Play Case](https://github.com/okthomsen/Video-platform-TV2)
+A microservice-based mockup of TV 2's streaming platform, built to explore independent scalability and availability under a publish/subscribe architecture. Bachelor project for a case supplied by Danish broadcaster TV 2.
+
+`Microservices` `Apache Kafka` `Docker`
 
 ---
 
