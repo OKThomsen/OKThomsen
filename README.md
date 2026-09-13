@@ -78,3 +78,4 @@ A microservice-based mockup of TV 2's streaming platform, built to explore indep
 
 ---
 
+And more projects to come, as I am always developing!
