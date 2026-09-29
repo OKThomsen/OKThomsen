@@ -1,6 +1,6 @@
 # Hi, I'm Oskar Kjær Thomsen
 
-Software Engineer | MSc Software Engineering, University of Southern Denmark
+**Software Engineer** | MSc Software Engineering, University of Southern Denmark
 
 Recent graduate building across the stack — from embedded Linux systems to cloud-native backends. Currently focused on ASP.NET Core, EF Core, and Azure, and looking for my first full-time software engineering role.
 
