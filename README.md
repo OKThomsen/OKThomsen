@@ -58,7 +58,7 @@ I build complete systems, from embedded devices to web applications. My latest r
 
 ## Featured Projects
 
-### [Pool Tournament Platform](https://github.com/OKThomsen/pool-tournament-app)
+### [Pool Tournament Platform](https://github.com/OKThomsen/franks-poolhouse-tournament-app)
 A web platform that runs the weekly tournaments at my local pool hall, from pool play and knockout brackets to season standings and handicaps, with live updates on players' phones and the club's TV. Built and deployed solo, and in production for the club.
 
 [Live site](https://turneringsportal.kjaer-thomsen.dk) · [Blog post](https://oskar.kjaer-thomsen.dk/blog/building-a-pool-tournament-platform)
